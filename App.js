@@ -9,8 +9,8 @@ return (
 source={{ uri: 'https://i.pravatar.cc/200' }}
 style={styles.profileImage}
 />
-<Text style={styles.name}>Letícia Souza</Text>
-<Text style={styles.phrase}>“Formada em Sistemas Para Internet”</Text>
+<Text style={styles.name}>Miguel Mendes</Text>
+<Text style={styles.phrase}>“legal”</Text>
 </View>
 </View>
 );
